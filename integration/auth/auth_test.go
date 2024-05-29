@@ -32,12 +32,12 @@ import (
 	"testing"
 	"time"
 
-	firebase "firebase.google.com/go/v4"
-	"firebase.google.com/go/v4/auth"
-	"firebase.google.com/go/v4/auth/hash"
-	"firebase.google.com/go/v4/integration/internal"
 	"golang.org/x/oauth2/google"
 	"google.golang.org/api/option"
+	firebase "montovaneli/firebase.google.com/go/v4"
+	"montovaneli/firebase.google.com/go/v4/auth"
+	"montovaneli/firebase.google.com/go/v4/auth/hash"
+	"montovaneli/firebase.google.com/go/v4/integration/internal"
 )
 
 const (

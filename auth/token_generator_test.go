@@ -26,8 +26,8 @@ import (
 	"strings"
 	"testing"
 
-	"firebase.google.com/go/v4/errorutils"
-	"firebase.google.com/go/v4/internal"
+	"montovaneli/firebase.google.com/go/v4/errorutils"
+	"montovaneli/firebase.google.com/go/v4/internal"
 )
 
 func TestEncodeToken(t *testing.T) {

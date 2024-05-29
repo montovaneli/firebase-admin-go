@@ -20,9 +20,9 @@ import (
 	"fmt"
 	"log"
 
-	firebase "firebase.google.com/go/v4"
-	"firebase.google.com/go/v4/db"
 	"google.golang.org/api/option"
+	firebase "montovaneli/firebase.google.com/go/v4"
+	"montovaneli/firebase.google.com/go/v4/db"
 )
 
 // [END authenticate_db_imports]

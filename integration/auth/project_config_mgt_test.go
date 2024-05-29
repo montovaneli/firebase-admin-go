@@ -18,7 +18,7 @@ import (
 	"reflect"
 	"testing"
 
-	"firebase.google.com/go/v4/auth"
+	"montovaneli/firebase.google.com/go/v4/auth"
 )
 
 func TestProjectConfig(t *testing.T) {

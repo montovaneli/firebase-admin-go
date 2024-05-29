@@ -24,7 +24,7 @@ import (
 	"strings"
 	"testing"
 
-	"firebase.google.com/go/v4/errorutils"
+	"montovaneli/firebase.google.com/go/v4/errorutils"
 )
 
 var rfBody = []byte("{\"results\": [{\"apns_token\": \"id1\", \"status\": \"OK\", \"registration_token\": " +

@@ -21,7 +21,7 @@ import (
 	"os"
 
 	"cloud.google.com/go/storage"
-	"firebase.google.com/go/v4/internal"
+	"montovaneli/firebase.google.com/go/v4/internal"
 )
 
 // Client is the interface for the Firebase Storage service.

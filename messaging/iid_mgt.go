@@ -19,7 +19,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"firebase.google.com/go/v4/internal"
+	"montovaneli/firebase.google.com/go/v4/internal"
 )
 
 const iidImport = "batchImport"
@@ -155,4 +155,4 @@ func (c *iidClient) GetTokenDetails(ctx context.Context, token string) (*TokenDe
 		return nil, err
 	}
 	return &result, nil
-}    
+}

@@ -24,9 +24,9 @@ import (
 	"testing"
 	"time"
 
-	"firebase.google.com/go/v4/errorutils"
-	"firebase.google.com/go/v4/internal"
 	"google.golang.org/api/option"
+	"montovaneli/firebase.google.com/go/v4/errorutils"
+	"montovaneli/firebase.google.com/go/v4/internal"
 )
 
 const testMessageID = "projects/test-project/messages/msg_id"

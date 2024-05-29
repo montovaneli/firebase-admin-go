@@ -29,11 +29,11 @@ import (
 	"testing"
 	"time"
 
-	"firebase.google.com/go/v4/messaging"
 	"golang.org/x/oauth2"
 	"golang.org/x/oauth2/google"
 	"google.golang.org/api/option"
 	"google.golang.org/api/transport"
+	"montovaneli/firebase.google.com/go/v4/messaging"
 )
 
 const credEnvVar = "GOOGLE_APPLICATION_CREDENTIALS"

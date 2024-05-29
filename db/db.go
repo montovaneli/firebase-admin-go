@@ -25,9 +25,9 @@ import (
 	"runtime"
 	"strings"
 
-	"firebase.google.com/go/v4/internal"
 	"golang.org/x/oauth2"
 	"google.golang.org/api/option"
+	"montovaneli/firebase.google.com/go/v4/internal"
 )
 
 const userAgentFormat = "Firebase/HTTP/%s/%s/AdminGo"

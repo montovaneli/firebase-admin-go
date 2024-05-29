@@ -20,8 +20,8 @@ package auth
 import (
 	"context"
 
-	"firebase.google.com/go/v4/internal"
 	"google.golang.org/appengine/v2"
+	"montovaneli/firebase.google.com/go/v4/internal"
 )
 
 type aeSigner struct{}
