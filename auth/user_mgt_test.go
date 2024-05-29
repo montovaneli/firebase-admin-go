@@ -30,9 +30,9 @@ import (
 	"testing"
 	"time"
 
+	"github.com/montovaneli/firebase.google.com/go/v4/errorutils"
+	"github.com/montovaneli/firebase.google.com/go/v4/internal"
 	"google.golang.org/api/iterator"
-	"montovaneli/firebase.google.com/go/v4/errorutils"
-	"montovaneli/firebase.google.com/go/v4/internal"
 )
 
 var testUser = &UserRecord{

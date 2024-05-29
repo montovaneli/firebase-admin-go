@@ -19,9 +19,9 @@ import (
 	"context"
 	"log"
 
+	firebase "github.com/montovaneli/firebase.google.com/go/v4"
+	"github.com/montovaneli/firebase.google.com/go/v4/auth"
 	"google.golang.org/api/option"
-	firebase "montovaneli/firebase.google.com/go/v4"
-	"montovaneli/firebase.google.com/go/v4/auth"
 )
 
 // [END admin_import_golang]

@@ -19,8 +19,8 @@ import (
 	"reflect"
 	"testing"
 
-	"montovaneli/firebase.google.com/go/v4/auth"
-	"montovaneli/firebase.google.com/go/v4/internal"
+	"github.com/montovaneli/firebase.google.com/go/v4/auth"
+	"github.com/montovaneli/firebase.google.com/go/v4/internal"
 )
 
 var (

@@ -24,7 +24,7 @@ import (
 	"github.com/MicahParks/keyfunc"
 	"github.com/golang-jwt/jwt/v4"
 
-	"montovaneli/firebase.google.com/go/v4/internal"
+	"github.com/montovaneli/firebase.google.com/go/v4/internal"
 )
 
 // JWKSUrl is the URL of the JWKS used to verify App Check tokens.

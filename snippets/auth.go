@@ -23,10 +23,10 @@ import (
 	"net/http"
 	"time"
 
+	firebase "github.com/montovaneli/firebase.google.com/go/v4"
+	"github.com/montovaneli/firebase.google.com/go/v4/auth"
+	"github.com/montovaneli/firebase.google.com/go/v4/auth/hash"
 	"google.golang.org/api/iterator"
-	firebase "montovaneli/firebase.google.com/go/v4"
-	"montovaneli/firebase.google.com/go/v4/auth"
-	"montovaneli/firebase.google.com/go/v4/auth/hash"
 )
 
 // ==================================================================

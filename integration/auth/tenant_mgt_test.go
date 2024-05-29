@@ -22,8 +22,8 @@ import (
 	"testing"
 	"time"
 
+	"github.com/montovaneli/firebase.google.com/go/v4/auth"
 	"google.golang.org/api/iterator"
-	"montovaneli/firebase.google.com/go/v4/auth"
 )
 
 func TestTenantManager(t *testing.T) {

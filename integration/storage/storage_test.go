@@ -24,9 +24,9 @@ import (
 	"testing"
 
 	gcs "cloud.google.com/go/storage"
-	firebase "montovaneli/firebase.google.com/go/v4"
-	"montovaneli/firebase.google.com/go/v4/integration/internal"
-	"montovaneli/firebase.google.com/go/v4/storage"
+	firebase "github.com/montovaneli/firebase.google.com/go/v4"
+	"github.com/montovaneli/firebase.google.com/go/v4/integration/internal"
+	"github.com/montovaneli/firebase.google.com/go/v4/storage"
 )
 
 var ctx context.Context

@@ -22,9 +22,9 @@ import (
 	"os"
 	"testing"
 
-	"montovaneli/firebase.google.com/go/v4/errorutils"
-	"montovaneli/firebase.google.com/go/v4/iid"
-	"montovaneli/firebase.google.com/go/v4/integration/internal"
+	"github.com/montovaneli/firebase.google.com/go/v4/errorutils"
+	"github.com/montovaneli/firebase.google.com/go/v4/iid"
+	"github.com/montovaneli/firebase.google.com/go/v4/integration/internal"
 )
 
 var client *iid.Client

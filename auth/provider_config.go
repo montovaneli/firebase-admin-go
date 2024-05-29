@@ -23,8 +23,8 @@ import (
 	"strconv"
 	"strings"
 
+	"github.com/montovaneli/firebase.google.com/go/v4/internal"
 	"google.golang.org/api/iterator"
-	"montovaneli/firebase.google.com/go/v4/internal"
 )
 
 const (

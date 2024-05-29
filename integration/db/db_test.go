@@ -28,10 +28,10 @@ import (
 	"reflect"
 	"testing"
 
-	firebase "montovaneli/firebase.google.com/go/v4"
-	"montovaneli/firebase.google.com/go/v4/db"
-	"montovaneli/firebase.google.com/go/v4/errorutils"
-	"montovaneli/firebase.google.com/go/v4/integration/internal"
+	firebase "github.com/montovaneli/firebase.google.com/go/v4"
+	"github.com/montovaneli/firebase.google.com/go/v4/db"
+	"github.com/montovaneli/firebase.google.com/go/v4/errorutils"
+	"github.com/montovaneli/firebase.google.com/go/v4/integration/internal"
 )
 
 var client *db.Client

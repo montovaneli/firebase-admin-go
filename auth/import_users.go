@@ -20,7 +20,7 @@ import (
 	"errors"
 	"fmt"
 
-	"montovaneli/firebase.google.com/go/v4/internal"
+	"github.com/montovaneli/firebase.google.com/go/v4/internal"
 )
 
 const maxImportUsers = 1000

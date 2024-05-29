@@ -24,8 +24,8 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/montovaneli/firebase.google.com/go/v4/errorutils"
 	"google.golang.org/api/iterator"
-	"montovaneli/firebase.google.com/go/v4/errorutils"
 )
 
 const oidcConfigResponse = `{

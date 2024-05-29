@@ -28,9 +28,9 @@ import (
 	"testing"
 	"time"
 
+	"github.com/montovaneli/firebase.google.com/go/v4/auth"
+	"github.com/montovaneli/firebase.google.com/go/v4/auth/hash"
 	"google.golang.org/api/iterator"
-	"montovaneli/firebase.google.com/go/v4/auth"
-	"montovaneli/firebase.google.com/go/v4/auth/hash"
 )
 
 const (

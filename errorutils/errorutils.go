@@ -18,7 +18,7 @@ package errorutils
 import (
 	"net/http"
 
-	"montovaneli/firebase.google.com/go/v4/internal"
+	"github.com/montovaneli/firebase.google.com/go/v4/internal"
 )
 
 // IsInvalidArgument checks if the given error was due to an invalid client argument.

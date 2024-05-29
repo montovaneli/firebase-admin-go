@@ -23,10 +23,10 @@ import (
 	"path/filepath"
 	"strings"
 
+	firebase "github.com/montovaneli/firebase.google.com/go/v4"
+	"github.com/montovaneli/firebase.google.com/go/v4/internal"
 	"google.golang.org/api/option"
 	"google.golang.org/api/transport"
-	firebase "montovaneli/firebase.google.com/go/v4"
-	"montovaneli/firebase.google.com/go/v4/internal"
 )
 
 const certPath = "integration_cert.json"

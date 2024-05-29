@@ -22,8 +22,8 @@ import (
 	"strconv"
 	"strings"
 
+	"github.com/montovaneli/firebase.google.com/go/v4/internal"
 	"google.golang.org/api/iterator"
-	"montovaneli/firebase.google.com/go/v4/internal"
 )
 
 // Tenant represents a tenant in a multi-tenant application.

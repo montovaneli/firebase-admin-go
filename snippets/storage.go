@@ -18,8 +18,8 @@ import (
 	"context"
 	"log"
 
+	firebase "github.com/montovaneli/firebase.google.com/go/v4"
 	"google.golang.org/api/option"
-	firebase "montovaneli/firebase.google.com/go/v4"
 )
 
 // ==================================================================
