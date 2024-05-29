@@ -21,7 +21,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/montovaneli/firebase.google.com/go/v4/internal"
+	"firebase.google.com/go/v4/internal"
 )
 
 const (

@@ -24,8 +24,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/montovaneli/firebase.google.com/go/v4/errorutils"
-	"github.com/montovaneli/firebase.google.com/go/v4/internal"
+	"firebase.google.com/go/v4/errorutils"
+	"firebase.google.com/go/v4/internal"
 	"google.golang.org/api/option"
 )
 

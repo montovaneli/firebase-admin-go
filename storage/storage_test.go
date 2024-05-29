@@ -19,7 +19,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/montovaneli/firebase.google.com/go/v4/internal"
+	"firebase.google.com/go/v4/internal"
 	"google.golang.org/api/option"
 )
 

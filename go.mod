@@ -1,4 +1,4 @@
-module github.com/montovaneli/firebase.google.com/go/v4
+module firebase.google.com/go/v4
 
 go 1.20
 
